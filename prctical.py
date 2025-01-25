@@ -44,3 +44,5 @@ def calculator():
 
 # Run the calculator
 calculator()
+
+print("done changes")
